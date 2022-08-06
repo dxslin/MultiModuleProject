@@ -49,6 +49,6 @@ spotless {
     kotlin {
         target("**/*.kt")
         targetExclude(".idea/")
-        ktlint("0.44.0")
+        ktlint("0.46.0")
     }
 }

@@ -28,7 +28,7 @@ object Versions {
     val composeVersion: String = "1.1.0"
 //        get() = properties["compose.version"] as String
 
-    const val ktlint = "0.40.0"
+    const val ktlint = "0.46.0"
 }
 
 object Libs {
